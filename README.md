@@ -30,6 +30,7 @@ You may need encrypt your file to protect that and decrypt it for using. this ap
 
 To encrypt/decrypt file i used DESCryptoService and it defines a wrapper object to access the cryptographic service provider (CSP) version of the Data Encryption Standard (DES) algorithm. This class cannot be inherited.
 ![image](https://github.com/Sooheil/EncryptionApplication/assets/40947759/290c354b-abb3-4244-b074-a47c151ff8af)
+
 For using you nead to make your special key and initialization vector (IV) used to encrypt the file must be used to decrypt it. After that you should select your source file and destination path for encrypting/decrypting.
 
 
