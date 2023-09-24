@@ -32,8 +32,6 @@ To encrypt/decrypt file i used DESCryptoService and it defines a wrapper object 
 ![image](https://github.com/Sooheil/EncryptionApplication/assets/40947759/290c354b-abb3-4244-b074-a47c151ff8af)
 For using you nead to make your special key and initialization vector (IV) used to encrypt the file must be used to decrypt it. After that you should select your source file and destination path for encrypting/decrypting.
 
-Licence
-You can use this project as free.
 
 You can read more https://learn.microsoft.com/en-us/dotnet/api/system.security.cryptography.descryptoserviceprovider?view=net-7.0
 
